@@ -1,0 +1,23 @@
+All notable changes to this project will be documented here.
+
+---
+
+## [1.0.0] – 2025-06-09
+### Added
+- ✅ Initial app.py Streamlit frontend (Member 2)
+- ✅ Country dropdown with dynamic info + flags (Member 4)
+- ✅ GPT-based chatbot interface (Member 1)
+- ✅ Backend logic (Member 2)
+- ✅ Image display for country flags (Member 5)
+- ✅ Local development support (streamlit run app.py)
+- ✅ CONTRIBUTING.md and README.md added
+
+---
+
+
+## [1.0.1] – 
+### Upcoming
+- 🔄 Add language switch support 
+- 🌐 Connect live OpenAI API via .env 
+- 🗓 Add real holidays and traditions data
+- 📦 Prepare for Streamlit Cloud deployment 
